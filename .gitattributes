@@ -1,3 +1,4 @@
 #pattern  filter=crypt diff=crypt
 dash/pass_info.sh  filter=crypt diff=crypt
 dash/piropos.txt  filter=crypt diff=crypt
+cloudflare_dyndns/cloudflare.cfg  filter=crypt diff=crypt
